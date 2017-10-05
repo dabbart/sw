@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1507236016094">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/Dev/java/drop2/core/src/com/drop2/game/MainMenuScreen.java" timestamp="1507064196344">
         <mark key="[" line="33" column="36" />
         <mark key="]" line="33" column="36" />
@@ -57,10 +62,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>sw</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>sw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZihHZHguaW5wdXQuaXNLZXlQcmVzc2VkKEtleXMuTEVGVCkpCiAgICAgICAgewogICAgICAgICAgICBidWNrZXQueCAtPSAzNTAgKyBHZHguZ3JhcGhpY3MuZ2V0RGVsdGFUaW1lKCk7CiAgICAgICAgfQo=</text>
