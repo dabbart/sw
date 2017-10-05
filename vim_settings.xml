@@ -8,31 +8,61 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Dev/java/drop2/core/src/com/drop2/game/MainMenuScreen.java" timestamp="1507064196344">
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="36" />
+      <file name="C:/Dev/java/drop2/core/src/com/drop2/game/MainMenuScreen.java" timestamp="1507238780209">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="67" column="0" />
         <mark key="." line="33" column="36" />
       </file>
-      <file name="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayGame.java" timestamp="1507230058591">
-        <mark key="[" line="22" column="35" />
-      </file>
-      <file name="C:/Dev/java/drop2/core/src/com/drop2/game/Drop.java" timestamp="1507063221411">
-        <mark key="'" line="10" column="43" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="8" />
-        <mark key="." line="23" column="8" />
-        <mark key="^" line="23" column="19" />
-      </file>
-      <file name="C:/Dev/java/sw/core/src/com/sw/game/BezierCurve.java" timestamp="1507067136126">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="40" />
-        <mark key="^" line="15" column="46" />
-        <mark key="." line="12" column="40" />
+      <file name="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayGame.java" timestamp="1507242985164">
+        <mark key="[" line="79" column="8" />
+        <mark key="]" line="79" column="38" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="76" column="0" />
       </file>
       <file name="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayBike.java" timestamp="1507062012653">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="C:/Dev/java/drop/desktop/src/com/my/drop/desktop/DesktopLauncher.java" timestamp="1506768331702">
+        <mark key="[" line="8" column="82" />
+      </file>
+      <file name="C:/Dev/java/drop2/core/src/com/drop2/game/GameScreen.java" timestamp="1507239377024">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+      </file>
+      <file name="C:/Dev/java/sw/core/src/com/sw/game/MainMenuScreen.java" timestamp="1507241929484">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="40" column="8" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+      </file>
+      <file name="C:/Dev/java/sw/core/src/com/sw/game/GameControl.java" timestamp="1507239208976">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="C:/Dev/java/drop2/core/src/com/drop2/game/Drop.java" timestamp="1507239066720">
+        <mark key="'" line="10" column="43" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="23" column="8" />
+        <mark key="^" line="23" column="19" />
+      </file>
+      <file name="C:/Dev/java/sw/core/src/com/sw/game/BezierCurve.java" timestamp="1507242303884">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="24" column="8" />
+      </file>
+      <file name="C:/Dev/java/sw/desktop/src/com/sw/game/desktop/DesktopLauncher.java" timestamp="1507239911208">
+        <mark key="'" line="10" column="33" />
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="33" />
       </file>
       <file name="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayPlayer.java" timestamp="1507062061224">
         <mark key="]" line="9" column="0" />
@@ -43,59 +73,51 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1507066279894">
+      <file name="/fragment.java" timestamp="1507239595831">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Dev/java/drop/desktop/src/com/my/drop/desktop/DesktopLauncher.java" timestamp="1506768331702">
-        <mark key="[" line="8" column="82" />
-      </file>
-      <file name="C:/Dev/java/drop2/core/src/com/drop2/game/GameScreen.java" timestamp="1507065868567">
-        <mark key="[" line="104" column="3" />
-        <mark key="]" line="104" column="2" />
-        <mark key="." line="104" column="2" />
-        <mark key="^" line="104" column="2" />
       </file>
     </filemarks>
     <jumps>
       <jump line="11" column="42" filename="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayPlayer.java" />
       <jump line="8" column="43" filename="C:/Dev/java/drop2/core/src/com/drop2/game/Drop.java" />
+      <jump line="9" column="33" filename="C:/Dev/java/sw/desktop/src/com/sw/game/desktop/DesktopLauncher.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBDYXRtdWxsUm9tU3BsaW5lPCBWZWN0b3IyID4gbXlDYXRtdWxsID0gbmV3IENhdG11bGxSb21TcGxpbmUgPCBWZWN0b3IyID4gKGRhdGFTZXQsIHRydWUpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTAwOyArK2kpIHsKCiAgICAgICAgICAgIHBvaW50c1tpXSA9IG5ldyBWZWN0b3IyKCk7CiAgICAgICAgICAgIG15Q2F0bXVsbC52YWx1ZUF0KHBvaW50c1tpXSwgKChmbG9hdCkgaSkgLyAoKGZsb2F0KSAxMDAgLSAxKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>sw</text>
+        <text>BezierCurve</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZihHZHguaW5wdXQuaXNLZXlQcmVzc2VkKEtleXMuTEVGVCkpCiAgICAgICAgewogICAgICAgICAgICBidWNrZXQueCAtPSAzNTAgKyBHZHguZ3JhcGhpY3MuZ2V0RGVsdGFUaW1lKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBWZWN0b3IyW10gZGF0YVNldCA9IG5ldyBWZWN0b3IyWzRdOwogICAgICAgIGRhdGFTZXRbMF0gPSBuZXcgVmVjdG9yMigxMDAuMGYgKyBNYXRoVXRpbHMucmFuZG9tKC0zMGYsIDMwZiksIDEwMC4wZiArIE1hdGhVdGlscy5yYW5kb20oLTMwZiwgMzBmKSk7CiAgICAgICAgZGF0YVNldFsxXSA9IG5ldyBWZWN0b3IyKDExMC4wZiArIE1hdGhVdGlscy5yYW5kb20oLTMwZiwgMzBmKSwgMTMwLjBmICsgTWF0aFV0aWxzLnJhbmRvbSgtMzBmLCAzMGYpKTsKICAgICAgICBkYXRhU2V0WzJdID0gbmV3IFZlY3RvcjIoMTMwLjBmICsgTWF0aFV0aWxzLnJhbmRvbSgtMzBmLCAzMGYpLCAxNTAuMGYgKyBNYXRoVXRpbHMucmFuZG9tKC0zMGYsIDMwZikpOwogICAgICAgIGRhdGFTZXRbM10gPSBuZXcgVmVjdG9yMigyMDAuMGYgKyBNYXRoVXRpbHMucmFuZG9tKC0zMGYsIDMwZiksIDIwMC4wZiArIE1hdGhVdGlscy5yYW5kb20oLTMwZiwgMzBmKSk7CgogICAgICAgIENhdG11bGxSb21TcGxpbmU8IFZlY3RvcjIgPiBteUNhdG11bGwgPSBuZXcgQ2F0bXVsbFJvbVNwbGluZSA8IFZlY3RvcjIgPiAoZGF0YVNldCwgdHJ1ZSk7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDA7ICsraSkgewoKICAgICAgICAgICAgcG9pbnRzW2ldID0gbmV3IFZlY3RvcjIoKTsKICAgICAgICAgICAgbXlDYXRtdWxsLnZhbHVlQXQocG9pbnRzW2ldLCAoKGZsb2F0KSBpKSAvICgoZmxvYXQpIDEwMCAtIDEpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnB1YmxpYyBjbGFzcyBCZXppZXJDdXJ2ZSB7CiAgICBWZWN0b3IyW10KfQo=</text>
+        <text encoding="base64">ICAgICAgICBDYXRtdWxsUm9tU3BsaW5lPCBWZWN0b3IyID4gbXlDYXRtdWxsID0gbmV3IENhdG11bGxSb21TcGxpbmUgPCBWZWN0b3IyID4gKGRhdGFTZXQsIHRydWUpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTAwOyArK2kpIHsKCiAgICAgICAgICAgIHBvaW50c1tpXSA9IG5ldyBWZWN0b3IyKCk7CiAgICAgICAgICAgIG15Q2F0bXVsbC52YWx1ZUF0KHBvaW50c1tpXSwgKChmbG9hdCkgaSkgLyAoKGZsb2F0KSAxMDAgLSAxKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGRyYXcoU2hhcGVSZW5kZXJlciBzUmVuZGVyZXIpIHsKCiAgICAgICAgc1JlbmRlcmVyLmJlZ2luKFNoYXBlUmVuZGVyZXIuU2hhcGVUeXBlLkxpbmUpOwogICAgICAgIHNSZW5kZXJlci5pZGVudGl0eSgpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTAwIC0gMTsgKytpKSB7CgogICAgICAgICAgICBzUmVuZGVyZXIubGluZShwb2ludHNbaV0sIHBvaW50c1tpICsgMV0pOwogICAgICAgIH0KICAgICAgICBzUmVuZGVyZXIuZW5kKCk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">CQljdXJ2ZS5kcmF3KHNoYXBlUmVuZGVyZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQkJZ2FtZS5zZXRTY3JlZW4obmV3IFNwZWVkd2F5R2FtZShnYW1lKSk7CgkJCWRpc3Bvc2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uZHJvcDIuZ2FtZTsKCmltcG9ydCBjb20uYmFkbG9naWMuZ2R4LlNjcmVlbjsK</text>
+        <text encoding="base64">CQlzaGFwZVJlbmRlcmVyLgo=</text>
       </register>
-      <register name="7" type="8">
-        <text>Welcome to Drop2!</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBDYXRtdWxsUm9tU3BsaW5lPCBWZWN0b3IyID4gbXlDYXRtdWxsID0gbmV3IENhdG11bGxSb21TcGxpbmUgPCBWZWN0b3IyID4gKGRhdGFTZXQsIHRydWUpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMTAwOyArK2kpIHsKCiAgICAgICAgICAgIHBvaW50c1tpXSA9IG5ldyBWZWN0b3IyKCk7CiAgICAgICAgICAgIG15Q2F0bXVsbC52YWx1ZUF0KHBvaW50c1tpXSwgKChmbG9hdCkgaSkgLyAoKGZsb2F0KSAxMDAgLSAxKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnYW1lLmZvbnQuZHJhdyhnYW1lLmJhdGNoLCAiV2VsY29tZSB0byBEcm9wMiEiLCAxMDAsIDE1MCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhU2V0WzRdID0gbmV3IFZlY3RvcjIoMjAwLjBmLCAyMDAuMGYpOwogICAgICAgIGRhdGFTZXRbNV0gPSBuZXcgVmVjdG9yMigyNS4wZiwgMjUuMGYpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
