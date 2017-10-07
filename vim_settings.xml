@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1507236016094">
+      <file name="/Dummy.txt" timestamp="1507381156052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -13,11 +13,11 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="33" column="36" />
       </file>
-      <file name="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayGame.java" timestamp="1507372199569">
-        <mark key="[" line="52" column="13" />
-        <mark key="]" line="52" column="3" />
-        <mark key="." line="52" column="3" />
-        <mark key="^" line="52" column="3" />
+      <file name="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayGame.java" timestamp="1507381102586">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="10" column="38" />
       </file>
       <file name="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayBike.java" timestamp="1507062012653">
         <mark key="[" line="8" column="0" />
