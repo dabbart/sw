@@ -33,11 +33,11 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/MyGdxGame.java" timestamp="1507464822264">
-        <mark key="[" line="66" column="40" />
-        <mark key="]" line="69" column="60" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="65" column="0" />
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/MyGdxGame.java" timestamp="1507467952636">
+        <mark key="[" line="119" column="16" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="133" column="18" />
       </file>
       <file name="C:/Dev/java/sw/core/src/com/sw/game/MainMenuScreen.java" timestamp="1507241929484">
         <mark key="[" line="36" column="0" />
@@ -93,37 +93,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQlhc3NldHMubG9hZCgiY29yZS9hc3NldHMvbW90dXIyLmczZGIiLCBNb2RlbC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">CQkJYmFuZGFEbXVjaGFuYUluc3RhbmNlLnRyYW5zZm9ybS5zZXRUb1JvdGF0aW9uKFZlY3RvcjMuWSwgTWF0aFV0aWxzLnJhbmRvbSgtNWYsIDVmKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>bandaDmuchanaInstance</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlhc3NldHMubG9hZCgiY29yZS9hc3NldHMvbW90dXIyLmczZGIiLCBNb2RlbC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">CQkJYmFuZGFJbnN0YW5jZS50cmFuc2Zvcm0uc2V0VG9Sb3RhdGlvbihWZWN0b3IzLlksIDkwKS50cm4oMCwwLCBNYXRoVXRpbHMucmFuZG9tKC01ZiwgNWYpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJYmFuZGFEbXVjaGFuYUluc3RhbmNlLnRyYW5zZm9ybS5zZXRUb1JvdGF0aW9uKFZlY3RvcjMuWSwgTWF0aFV0aWxzLnJhbmRvbSgtNWYsIDVmKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgkJbW90dXJCYXRjaCA9IG5ldyBNb2RlbEJhdGNoKCk7Cg==</text>
+        <text encoding="base64">CQkJcmVrbGFtYUluc3RhbmNlLnRyYW5zZm9ybS5zZXRUb1JvdGF0aW9uKFZlY3RvcjMuWSwgTWF0aFV0aWxzLnJhbmRvbSgtNWYsIDVmKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQltb2RlbEJhdGNoID0gbmV3IE1vZGVsQmF0Y2goKTsK</text>
+        <text encoding="base64">CQl0cnkgewoJCQl3YWl0KDUpOwoJCX0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHsKCQkJZS5wcmludFN0YWNrVHJhY2UoKTsKCQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJbW90dXJJbnN0YW5jZS50cmFuc2Zvcm0uc2V0VG9Sb3RhdGlvbihuZXcgVmVjdG9yMygwZiwgMGYsIHopLCBNYXRoVXRpbHMucmFuZG9tKC0xNWYsIDE1ZikpOwo=</text>
+        <text encoding="base64">CQkJd2FpdCg1KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJbW90dXJJbnN0YW5jZS50cmFuc2Zvcm0uc2V0VHJhbnNsYXRpb24oeCwgMCwgMCk7Cg==</text>
+        <text encoding="base64">CQlhc3NldHMubG9hZCgiY29yZS9hc3NldHMvYmFuZGEuZzNkYiIsIE1vZGVsLmNsYXNzKTsKCQlhc3NldHMubG9hZCgiY29yZS9hc3NldHMvYmFuZGFfZG11Y2hhbmFfMTBzdC5nM2RiIiwgTW9kZWwuY2xhc3MpOwoJCWFzc2V0cy5sb2FkKCJjb3JlL2Fzc2V0cy9tYXN6eW5hX3N0YXJ0b3dhLmczZGIiLCBNb2RlbC5jbGFzcyk7CgkJYXNzZXRzLmxvYWQoImNvcmUvYXNzZXRzL3Jla2xhbWEuZzNkYiIsIE1vZGVsLmNsYXNzKTsKCQlhc3NldHMubG9hZCgiY29yZS9hc3NldHMvbW90dXIyLmczZGIiLCBNb2RlbC5jbGFzcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlsb2FkaW5nID0gZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJbW90dXJJbnN0YW5jZS5tYXRlcmlhbC5zZXQobmV3IEJsZW5kaW5nQXR0cmlidXRlKEdMMzAuR0xfU1JDX0FMUEhBLCBHTDIwLkdMX09ORV9NSU5VU19TUkNfQUxQSEEpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJbWF0ZXJpYWwuc2V0KG5ldyBCbGVuZGluZ0F0dHJpYnV0ZShHTDIwLkdMX1NSQ19BTFBIQSwgR0wyMC5HTF9PTkVfTUlOVVNfU1JDX0FMUEhBKSlzCg==</text>
+        <text encoding="base64">CQlkCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkK</text>
@@ -140,6 +140,7 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
+        <entry>0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
