@@ -11,6 +11,11 @@
       <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaZawodow15A.java" timestamp="1507830995806">
         <mark key="[" line="2" column="30" />
       </file>
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaBiegIndywidualna.java" timestamp="1507833747100">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="C:/Dev/java/drop2/core/src/com/drop2/game/MainMenuScreen.java" timestamp="1507238780209">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="67" column="0" />
@@ -22,13 +27,16 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
+      <file name="/a.dummy" timestamp="1507832878194">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayBike.java" timestamp="1507062012653">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/OrganizerZawodow.java" timestamp="1507826982046">
-        <mark key="[" line="6" column="4" />
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/OrganizerZawodow.java" timestamp="1507833974319">
+        <mark key="[" line="6" column="16" />
         <mark key="]" line="6" column="5" />
         <mark key="^" line="6" column="5" />
         <mark key="." line="6" column="5" />
@@ -81,9 +89,10 @@
         <mark key="]" line="10" column="33" />
         <mark key="." line="10" column="33" />
       </file>
-      <file name="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayPlayer.java" timestamp="1507062061224">
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaBieg.java" timestamp="1507833801263">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="C:/Dev/java/drop/core/src/com/my/drop/Drop.java" timestamp="1507064901845">
         <mark key="[" line="122" column="8" />
@@ -106,40 +115,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUYWJlbGFUZWFtKFN0cmluZyBuYW1lLCBpbnQgbnVtYmVyKSB7CiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgICAgICB0aGlzLm51bWJlciA9IG51bWJlcjsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>motur2</text>
+        <text>]</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQlhc3NldHMubG9hZCgiY29yZS9hc3NldHMvbW90dXIyLmczZGIiLCBNb2RlbC5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUYWJlbGFUZWFtKFN0cmluZyBuYW1lLCBpbnQgbnVtYmVyKSB7CiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgICAgICB0aGlzLm51bWJlciA9IG51bWJlcjsKICAgIH0K</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgY2xhc3MgVGFiZWxhSW5keXdpZHVhbG5hIHsKICAgIH0K</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUYWRiZWxhVGVhbShpbnQgbnVtYmVyKSB7CiAgICAgICAgdGhpcygsIG51bWJlcik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCBudW1lclRvcnU7CiAgICAgICAgcHJpdmF0ZSBpbnQgbnVtZXJaYXdvZG5pa2E7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcga29sb3JLYXNrdTsKICAgICAgICBwcml2YXRlIFN0cmluZyBpbWllWmF3b2RuaWthOwogICAgICAgIHByaXZhdGUgYm9vbGVhbiB6bWlhbmE7CiAgICAgICAgcHJpdmF0ZSBTdHJpbmcgaW1pZVphd29kbmlrYVptaWFuYTsKICAgICAgICBwcml2YXRlIGludCBtaWVqc2NlOwogICAgICAgIHByaXZhdGUgaW50IHB1bmt0eTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJbm9kZS5yb3RhdGlvbi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXB1YmxpYyBNb2RlbEJhdGNoIG1vdHVyQmF0Y2g7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUYWJlbGFCaWVnKGludCBudW1lckJpZWd1LCBpbnQgcHVua3R5R29zcG9kYXJ6eSwgaW50IHB1bmt0eUdvc2NpLCBBcnJheUxpc3QgdGFiZWxhKSB7CiAgICAgICAgdGhpcy5udW1lckJpZWd1ID0gbnVtZXJCaWVndTsKICAgICAgICB0aGlzLnB1bmt0eUdvc3BvZGFyenkgPSBwdW5rdHlHb3Nwb2Rhcnp5OwogICAgICAgIHRoaXMucHVua3R5R29zY2kgPSBwdW5rdHlHb3NjaTsKICAgICAgICB0aGlzLnRhYmVsYSA9IHRhYmVsYTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8vcHVibGljIE1vZGVsIG1vdHVyOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUYWJlbGFCaWVnKGludCBudW1lckJpZWd1LCBpbnQgcHVua3R5R29zcG9kYXJ6eSwgaW50IHB1bmt0eUdvc2NpLCBBcnJheUxpc3QgdGFiZWxhKSB7CiAgICAgICAgdGhpcy5udW1lckJpZWd1ID0gbnVtZXJCaWVndTsKICAgICAgICB0aGlzLnB1bmt0eUdvc3BvZGFyenkgPSBwdW5rdHlHb3Nwb2Rhcnp5OwogICAgICAgIHRoaXMucHVua3R5R29zY2kgPSBwdW5rdHlHb3NjaTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgkvL3B1YmxpYyBNb2RlbCBtb2RlbDsKCS8vcHVibGljIE1vZGVsSW5zdGFuY2UgaW5zdGFuY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvL21vZGVsQmF0Y2gucmVuZGVyKG1vdHVySW5zdGFuY2VzLCBlbnZpcm9ubWVudCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG51bWVyVG9ydTsKICAgIHByaXZhdGUgaW50IG51bWVyWmF3b2RuaWthOwogICAgcHJpdmF0ZSBTdHJpbmcga29sb3JLYXNrdTsKICAgIHByaXZhdGUgU3RyaW5nIGltaWVaYXdvZG5pa2E7CiAgICBwcml2YXRlIGJvb2xlYW4gem1pYW5hOwogICAgcHJpdmF0ZSBTdHJpbmcgaW1pZVphd29kbmlrYVptaWFuYTsKICAgIHByaXZhdGUgaW50IG1pZWpzY2U7CiAgICBwcml2YXRlIGludCBwdW5rdHk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
