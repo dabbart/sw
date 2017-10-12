@@ -6,10 +6,11 @@
       <file name="/a.dummy" timestamp="1507832878194">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/OrganizerZawodow.java" timestamp="1507841332891">
-        <mark key="[" line="8" column="48" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/OrganizerZawodow.java" timestamp="1507842356649">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
       </file>
       <file name="C:/Dev/java/drop/desktop/src/com/my/drop/desktop/DesktopLauncher.java" timestamp="1506768331702">
         <mark key="[" line="8" column="82" />
@@ -20,10 +21,10 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/MyGdxGame.java" timestamp="1507478522154">
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/MyGdxGame.java" timestamp="1507842762386">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="C:/Dev/java/sw/core/src/com/sw/game/GameControl.java" timestamp="1507239208976">
         <mark key="[" line="10" column="13" />
@@ -50,11 +51,11 @@
         <mark key="]" line="10" column="33" />
         <mark key="." line="10" column="33" />
       </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaZawodowDroz15.java" timestamp="1507841102523">
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaZawodowDroz15.java" timestamp="1507843270802">
         <mark key="[" line="3" column="33" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="13" column="28" />
-        <mark key="." line="6" column="0" />
+        <mark key="]" line="5" column="19" />
+        <mark key="^" line="5" column="19" />
+        <mark key="." line="5" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1507840778816">
         <mark key="[" line="0" column="0" />
@@ -110,7 +111,7 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1507839719379">
+      <file name="/fragment.java" timestamp="1507843255334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
