@@ -56,10 +56,10 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/MyGdxGame.java" timestamp="1507842762386">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/MyGdxGame.java" timestamp="1508355409931">
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="58" column="95" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="C:/Dev/java/sw/core/src/com/sw/game/GameControl.java" timestamp="1507239208976">
         <mark key="[" line="10" column="13" />
@@ -129,34 +129,40 @@
       <jump line="9" column="33" filename="C:/Dev/java/sw/desktop/src/com/sw/game/desktop/DesktopLauncher.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlvcnRob2dyYXBoaWNDYW1lcmEuc2V0VG9PcnRobyh0cnVlLCBHZHguZ3JhcGhpY3MuZ2V0V2lkdGgoKSwgR2R4LmdyYXBoaWNzLmdldEhlaWdodCgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBnb3NjaWUuc2V0TmF6d2FEcm96eW55KCJWaWxkcGlnZ2FybmEiKTsK</text>
+        <text encoding="base64">CQlvcnRob2dyYXBoaWNDYW1lcmEuc2V0VG9PcnRobyh0cnVlLCBHZHguZ3JhcGhpY3MuZ2V0V2lkdGgoKSwgR2R4LmdyYXBoaWNzLmdldEhlaWdodCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0YWJlbGFaYXdvZG93LmdldEdvc2NpZSgpOwo=</text>
+        <text encoding="base64">CQlvcnRob2dyYXBoaWNDYW1lcmEubG9va0F0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gIGpzb24uc2V0RWxlbWVudFR5cGUoUGVyc29uLmNsYXNzLCAibnVtYmVycyIsIFBob25lTnVtYmVyLmNsYXNzKTsK</text>
+        <text encoding="base64">CQltb2RlbEJhdGNoLmJlZ2luKG9ydGhvZ3JhcGhpY0NhbWVyYSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVGFiZWxhVGVhbSgibmF6d2EgZHJvenlueSIsIG5ldyBUYWJlbGFaYXdvZG5pa1s3XSwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0YWJlbGFaYXdvZG93LmdldEdvc2NpZSgpOwo=</text>
       </register>
-      <register name="4" type="8">
-        <text>{punktyBieg1,punktyBieg2,punktyBieg3, punktyBieg4, punktyBieg5, punktyBieg6, punktyBieg7}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLy8gIGpzb24uc2V0RWxlbWVudFR5cGUoUGVyc29uLmNsYXNzLCAibnVtYmVycyIsIFBob25lTnVtYmVyLmNsYXNzKTsK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgVGFiZWxhVGVhbSgibmF6d2EgZHJvenlueSIsIG5ldyBUYWJlbGFaYXdvZG5pa1s3XSwgZmFsc2UpOwo=</text>
+      </register>
+      <register name="6" type="8">
+        <text>{punktyBieg1,punktyBieg2,punktyBieg3, punktyBieg4, punktyBieg5, punktyBieg6, punktyBieg7}</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnRhYmVsYSA9IG5ldyBUYWJlbGFCaWVnSW5keXdpZHVhbG5hWzRdOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>1
 1
 1
@@ -168,12 +174,6 @@
 1
 1
 1</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIHRhYmVsYVphd29kb3cuCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGFiZWxhWmF3b2RuaWtbXSB0YWJlbGFaYXdvZG5pa293Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
