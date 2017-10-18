@@ -3,60 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1507832878194">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/OrganizerZawodow.java" timestamp="1507842356649">
-        <mark key="[" line="6" column="45" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-      </file>
-      <file name="C:/Dev/java/drop/desktop/src/com/my/drop/desktop/DesktopLauncher.java" timestamp="1506768331702">
-        <mark key="[" line="8" column="82" />
-      </file>
-      <file name="C:/Dev/java/drop2/core/src/com/drop2/game/GameScreen.java" timestamp="1507239377024">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-      </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/MyGdxGame.java" timestamp="1507842762386">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-      </file>
-      <file name="C:/Dev/java/sw/core/src/com/sw/game/GameControl.java" timestamp="1507239208976">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-      </file>
-      <file name="C:/Dev/java/drop2/core/src/com/drop2/game/Drop.java" timestamp="1507239066720">
-        <mark key="'" line="10" column="43" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="23" column="8" />
-        <mark key="^" line="23" column="19" />
-      </file>
-      <file name="C:/Dev/java/sw/core/src/com/sw/game/BezierCurve.java" timestamp="1507372381318">
-        <mark key="[" line="30" column="36" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="24" column="8" />
-      </file>
-      <file name="C:/Dev/java/sw/desktop/src/com/sw/game/desktop/DesktopLauncher.java" timestamp="1507239911208">
-        <mark key="'" line="10" column="33" />
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-      </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaZawodowDroz15.java" timestamp="1507843270802">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="5" column="19" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-      </file>
       <file name="/Dummy.txt" timestamp="1507844077744">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -81,16 +27,45 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
+      <file name="/a.dummy" timestamp="1507832878194">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayBike.java" timestamp="1507062012653">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaZawodnik.java" timestamp="1507839332695">
-        <mark key="[" line="11" column="37" />
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaZawodnik.java" timestamp="1508350396015">
+        <mark key="[" line="15" column="27" />
         <mark key="]" line="3" column="31" />
         <mark key="^" line="2" column="27" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/OrganizerZawodow.java" timestamp="1508349472609">
+        <mark key="[" line="18" column="44" />
+        <mark key="]" line="15" column="20" />
+        <mark key="." line="15" column="20" />
+        <mark key="^" line="15" column="20" />
+      </file>
+      <file name="C:/Dev/java/drop/desktop/src/com/my/drop/desktop/DesktopLauncher.java" timestamp="1506768331702">
+        <mark key="[" line="8" column="82" />
+      </file>
+      <file name="C:/Dev/java/drop2/core/src/com/drop2/game/GameScreen.java" timestamp="1507239377024">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+      </file>
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/MyGdxGame.java" timestamp="1507842762386">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+      </file>
+      <file name="C:/Dev/java/sw/core/src/com/sw/game/GameControl.java" timestamp="1507239208976">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="C:/Dev/java/sw/core/src/com/sw/game/MainMenuScreen.java" timestamp="1507241929484">
         <mark key="[" line="36" column="0" />
@@ -98,20 +73,44 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
+      <file name="C:/Dev/java/drop2/core/src/com/drop2/game/Drop.java" timestamp="1507239066720">
+        <mark key="'" line="10" column="43" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="23" column="8" />
+        <mark key="^" line="23" column="19" />
+      </file>
       <file name="C:/Dev/java/sw3d/desktop/src/com/sw3d/game/desktop/DesktopLauncher.java" timestamp="1507392423751">
         <mark key="[" line="8" column="82" />
       </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaBieg.java" timestamp="1507837787657">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="36" />
-        <mark key="." line="20" column="36" />
+      <file name="C:/Dev/java/sw/core/src/com/sw/game/BezierCurve.java" timestamp="1507372381318">
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="24" column="8" />
+      </file>
+      <file name="C:/Dev/java/sw/desktop/src/com/sw/game/desktop/DesktopLauncher.java" timestamp="1507239911208">
+        <mark key="'" line="10" column="33" />
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+      </file>
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaZawodowDroz15.java" timestamp="1508350287239">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaBieg.java" timestamp="1508350146814">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="32" column="5" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="C:/Dev/java/drop/core/src/com/my/drop/Drop.java" timestamp="1507064901845">
         <mark key="[" line="122" column="8" />
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1507843255334">
+      <file name="/fragment.java" timestamp="1508349860616">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -129,40 +128,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIHRhYmVsYVphd29kb3cuCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgVGFiZWxhVGVhbSgibmF6d2EgZHJvenlueSIsIG5ldyBUYWJlbGFaYXdvZG5pa1s3XSwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0YWJlbGFCaWVnb3cuYWRkKG5ldyBUYWJlbGFCaWVnKDEyKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIHRhYmVsYVphd29kb3cuCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgVGFiZWxhWmF3b2RuaWtbXSB0YWJlbGFaYXdvZG5pa293Owo=</text>
+      <register name="2" type="8">
+        <text>1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRhYmVsYVphd29kbmlrb3cgPSBuZXcgVGFiZWxhWmF3b2RuaWtbMTVdOwo=</text>
+        <text encoding="base64">ICAgICAgIHRhYmVsYVphd29kb3cuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnRhYmVsYVphd29kbmlrb3cgPSBuZXcgVGFiZWxhWmF3b2RuaWtbMTVdOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgVGFiZWxhWmF3b2RuaWtbXSB0YWJlbGFaYXdvZG5pa293Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5pdGlhbCBjb21taXQK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRhYmVsYVphd29kbmlrb3cgPSBuZXcgVGFiZWxhWmF3b2RuaWtbMTVdOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnRhYmVsYVphd29kbmlrb3cgPSBuZXcgVGFiZWxhWmF3b2RuaWtbMTVdOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgVGFiZWxhWmF3b2Rvd0Ryb3oxNSgpIHsKICAgIH0K</text>
+        <text encoding="base64">aW5pdGlhbCBjb21taXQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUYWJlbGFaYXdvZG93RHJvejE1KFRhYmVsYVRlYW0gZ29zcG9kYXJ6ZSwgVGFiZWxhVGVhbSBnb3NjaWUsIFRhYmVsYUJpZWdbXSB0YWJlbGFCaWVnb3cpIHsKICAgICAgICB0aGlzLmdvc3BvZGFyemUgPSBnb3Nwb2RhcnplOwogICAgICAgIHRoaXMuZ29zY2llID0gZ29zY2llOwogICAgICAgIHRoaXMudGFiZWxhQmllZ293ID0gdGFiZWxhQmllZ293OwogICAgfQoKICAgIHB1YmxpYyBUYWJlbGFUZWFtIGdldEdvc3BvZGFyemUoKSB7CiAgICAgICAgcmV0dXJuIGdvc3BvZGFyemU7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0R29zcG9kYXJ6ZShUYWJlbGFUZWFtIGdvc3BvZGFyemUpIHsKICAgICAgICB0aGlzLmdvc3BvZGFyemUgPSBnb3Nwb2RhcnplOwogICAgfQoKICAgIHB1YmxpYyBUYWJlbGFUZWFtIGdldEdvc2NpZSgpIHsKICAgICAgICByZXR1cm4gZ29zY2llOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldEdvc2NpZShUYWJlbGFUZWFtIGdvc2NpZSkgewogICAgICAgIHRoaXMuZ29zY2llID0gZ29zY2llOwogICAgfQoKICAgIHB1YmxpYyBUYWJlbGFCaWVnW10gZ2V0VGFiZWxhQmllZ293KCkgewogICAgICAgIHJldHVybiB0YWJlbGFCaWVnb3c7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VGFiZWxhQmllZ293KFRhYmVsYUJpZWdbXSB0YWJlbGFCaWVnb3cpIHsKICAgICAgICB0aGlzLnRhYmVsYUJpZWdvdyA9IHRhYmVsYUJpZWdvdzsKICAgIH0K</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgVGFiZWxhWmF3b2Rvd0Ryb3oxNSgpIHsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
