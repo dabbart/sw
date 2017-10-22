@@ -41,7 +41,6 @@
         <mark key="^" line="61" column="38" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/7d903ecd6b0df2ec334814b8e70618e4c93fd37c/gdx-1.9.6-sources.jar!/com/badlogic/gdx/ApplicationListener.java" timestamp="1508357095086" />
       <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/OrganizerZawodow.java" timestamp="1508352202825">
         <mark key="[" line="25" column="10" />
         <mark key="]" line="25" column="10" />
@@ -57,11 +56,11 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/MyGdxGame.java" timestamp="1508366003389">
-        <mark key="[" line="45" column="70" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="19" />
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/MyGdxGame.java" timestamp="1508703735099">
+        <mark key="[" line="39" column="44" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="52" column="19" />
       </file>
       <file name="C:/Dev/java/sw/core/src/com/sw/game/GameControl.java" timestamp="1507239208976">
         <mark key="[" line="10" column="13" />
