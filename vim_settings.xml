@@ -3,43 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1508359712407">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaZawodow15A.java" timestamp="1507830995806">
-        <mark key="[" line="2" column="30" />
-      </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaBiegIndywidualna.java" timestamp="1507839244998">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="C:/Dev/java/drop2/core/src/com/drop2/game/MainMenuScreen.java" timestamp="1507238780209">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="33" column="36" />
-      </file>
-      <file name="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayGame.java" timestamp="1507381102586">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="10" column="38" />
-        <mark key="^" line="10" column="38" />
-      </file>
+      <file name="C:/Dev/java/skin-composer-master/desktop/src/com/badlogic/gdx/tools/FileProcessor.java" timestamp="1508780880035" />
       <file name="/a.dummy" timestamp="1507832878194">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayBike.java" timestamp="1507062012653">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaZawodnik.java" timestamp="1508351051849">
-        <mark key="[" line="63" column="21" />
-        <mark key="]" line="67" column="41" />
-        <mark key="^" line="61" column="38" />
-        <mark key="." line="67" column="0" />
       </file>
       <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/OrganizerZawodow.java" timestamp="1508352202825">
         <mark key="[" line="25" column="10" />
@@ -67,22 +33,6 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
       </file>
-      <file name="C:/Dev/java/sw/core/src/com/sw/game/MainMenuScreen.java" timestamp="1507241929484">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="40" column="8" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="0" />
-      </file>
-      <file name="C:/Dev/java/drop2/core/src/com/drop2/game/Drop.java" timestamp="1507239066720">
-        <mark key="'" line="10" column="43" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="23" column="8" />
-        <mark key="^" line="23" column="19" />
-      </file>
-      <file name="C:/Dev/java/sw3d/desktop/src/com/sw3d/game/desktop/DesktopLauncher.java" timestamp="1507392423751">
-        <mark key="[" line="8" column="82" />
-      </file>
       <file name="C:/Dev/java/sw/core/src/com/sw/game/BezierCurve.java" timestamp="1507372381318">
         <mark key="[" line="30" column="36" />
         <mark key="]" line="41" column="0" />
@@ -99,6 +49,50 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508359712407">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaZawodow15A.java" timestamp="1507830995806">
+        <mark key="[" line="2" column="30" />
+      </file>
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaBiegIndywidualna.java" timestamp="1507839244998">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="C:/Dev/java/drop2/core/src/com/drop2/game/MainMenuScreen.java" timestamp="1507238780209">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="33" column="36" />
+      </file>
+      <file name="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayGame.java" timestamp="1507381102586">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+      </file>
+      <file name="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayBike.java" timestamp="1507062012653">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaZawodnik.java" timestamp="1508351051849">
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="67" column="41" />
+        <mark key="^" line="61" column="38" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="C:/Dev/java/sw/core/src/com/sw/game/MainMenuScreen.java" timestamp="1507241929484">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="40" column="8" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+      </file>
+      <file name="C:/Dev/java/sw3d/desktop/src/com/sw3d/game/desktop/DesktopLauncher.java" timestamp="1507392423751">
+        <mark key="[" line="8" column="82" />
       </file>
       <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaBieg.java" timestamp="1508350659798">
         <mark key="[" line="38" column="8" />
