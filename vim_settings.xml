@@ -63,10 +63,10 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/Motur.java" timestamp="1508868389278">
-        <mark key="[" line="68" column="45" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/Motur.java" timestamp="1508868747434">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="C:/Dev/java/drop2/core/src/com/drop2/game/MainMenuScreen.java" timestamp="1507238780209">
         <mark key="[" line="2" column="0" />
@@ -128,8 +128,8 @@
       <jump line="9" column="33" filename="C:/Dev/java/sw/desktop/src/com/sw/game/desktop/DesktopLauncher.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGtleVVwKGludCBrZXljb2RlKQogICAgewoKICAgIH0=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CQ==</text>
@@ -137,32 +137,32 @@
       <register name="0" type="4">
         <text encoding="base64">CQkJZm9yIChNYXRlcmlhbCBtYXQgOiBtb3R1ckluc3RhbmNlLm1hdGVyaWFscyApIHsKCQkJCW1hdC5zZXQobmV3IEJsZW5kaW5nQXR0cmlidXRlKEdMMzAuR0xfU1JDX0FMUEhBLCBHTDIwLkdMX09ORV9NSU5VU19TUkNfQUxQSEEpKTsKCQkJfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGtleVVwKGludCBrZXljb2RlKQogICAgewoKICAgIH0=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CiAgICBwdWJsaWMgTW9kZWwgZ2V0TW90dXJNb2RlbCgpIHsKICAgICAgICByZXR1cm4gbW90dXJNb2RlbDsKICAgIH0KCiAgICBwdWJsaWMgTW9kZWxJbnN0YW5jZSBnZXRNb3R1ckluc3RhbmNlKCkgewogICAgICAgIHJldHVybiBtb3R1ckluc3RhbmNlOwogICAgfQo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>new Vector3(boundingBox.getWidth(), boundingBox.getHeight(), boundingBox.getDepth())</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBCb3VuZGluZ0JveCBib3VuZGluZ0JveDsK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBidFJpZ2lkYm9keUNvbnN0cnVjdGlvbkluZm8gYnRSaWdpZGJvZHlDb25zdHJ1Y3Rpb25JbmZvOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBCb3VuZGluZ0JveCBib3VuZGluZ0JveDsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBidFJpZ2lkYm9keUNvbnN0cnVjdGlvbkluZm8gYnRSaWdpZGJvZHlDb25zdHJ1Y3Rpb25JbmZvOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIGFjdHVhbGx5IHRoaXMgY2xhc3Mgc2hvdWxkIGJlIHN0YXRpYywgYnV0IGJlY2F1c2Ugc3RhdGljIGNsYXNzZXMgYXJlIHJ1biBiZWZvcmUKICAgIC8vIGJ1bGxldCBwaHlzaWNzIGlzIGluaXRpYWxpemVkLCBmb3IgbXkgb3duIGNvbnZlbmllbmNlIGFsbCBjbGFzc2VzIG5lc3RlZCBpbiBNb3R1ciBjbGFzcwogICAgLy8gYXJlIG5vbi1zdGF0aWMuCiAgICAvLyBUT0RPOiBDaGFuZ2UgYWJvdmUgd2hlbiB5b3UgbWFrZSBzdXJlLCB0aGF0IEJ1bGxldCBpcyBpbml0aWFsaXplZCBiZWZvcmUgYW55CiAgICAvLyBUT0RPOiBNb3R1ciBjbGFzcyBpcyBpbnN0YW50aWF0ZWQK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBidFJpZ2lkYm9keUNvbnN0cnVjdGlvbkluZm8gYnRSaWdpZGJvZHlDb25zdHJ1Y3Rpb25JbmZvOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl3aGlsZShCdWxsZXQuKQo=</text>
+        <text encoding="base64">ICAgIC8vIGFjdHVhbGx5IHRoaXMgY2xhc3Mgc2hvdWxkIGJlIHN0YXRpYywgYnV0IGJlY2F1c2Ugc3RhdGljIGNsYXNzZXMgYXJlIHJ1biBiZWZvcmUKICAgIC8vIGJ1bGxldCBwaHlzaWNzIGlzIGluaXRpYWxpemVkLCBmb3IgbXkgb3duIGNvbnZlbmllbmNlIGFsbCBjbGFzc2VzIG5lc3RlZCBpbiBNb3R1ciBjbGFzcwogICAgLy8gYXJlIG5vbi1zdGF0aWMuCiAgICAvLyBUT0RPOiBDaGFuZ2UgYWJvdmUgd2hlbiB5b3UgbWFrZSBzdXJlLCB0aGF0IEJ1bGxldCBpcyBpbml0aWFsaXplZCBiZWZvcmUgYW55CiAgICAvLyBUT0RPOiBNb3R1ciBjbGFzcyBpcyBpbnN0YW50aWF0ZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c3RhdGljIGNsYXNzIE15TW90aW9uU3RhdGUgZXh0ZW5kcyBidE1vdGlvblN0YXRlIHsKICAgIE1hdHJpeDQgdHJhbnNmb3JtOwogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBnZXRXb3JsZFRyYW5zZm9ybSAoTWF0cml4NCB3b3JsZFRyYW5zKSB7CiAgICAgICAgd29ybGRUcmFucy5zZXQodHJhbnNmb3JtKTsKICAgIH0KICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc2V0V29ybGRUcmFuc2Zvcm0gKE1hdHJpeDQgd29ybGRUcmFucykgewogICAgICAgIHRyYW5zZm9ybS5zZXQod29ybGRUcmFucyk7CiAgICB9Cn0K</text>
+        <text encoding="base64">CQl3aGlsZShCdWxsZXQuKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
