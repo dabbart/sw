@@ -61,10 +61,10 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/MyGdxGame.java" timestamp="1508864380744">
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/MyGdxGame.java" timestamp="1509919507700">
+        <mark key="[" line="256" column="24" />
+        <mark key="]" line="256" column="25" />
+        <mark key="." line="256" column="25" />
       </file>
       <file name="C:/Dev/java/sw/core/src/com/sw/game/GameControl.java" timestamp="1507239208976">
         <mark key="[" line="10" column="13" />
@@ -128,10 +128,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBib29sZWFuIGtleVVwKGludCBrZXljb2RlKQogICAgewoKICAgIH0=</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>/</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CQkJZm9yIChNYXRlcmlhbCBtYXQgOiBtb3R1ckluc3RhbmNlLm1hdGVyaWFscyApIHsKCQkJCW1hdC5zZXQobmV3IEJsZW5kaW5nQXR0cmlidXRlKEdMMzAuR0xfU1JDX0FMUEhBLCBHTDIwLkdMX09ORV9NSU5VU19TUkNfQUxQSEEpKTsKCQkJfQ==</text>
