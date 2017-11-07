@@ -16,11 +16,10 @@
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/Motur.java" timestamp="1510079499807">
-        <mark key="[" line="40" column="50" />
-        <mark key="]" line="100" column="4" />
-        <mark key="." line="100" column="4" />
-        <mark key="^" line="100" column="4" />
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/Motur.java" timestamp="1510082101199">
+        <mark key="[" line="37" column="51" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="C:/Dev/java/drop2/core/src/com/drop2/game/MainMenuScreen.java" timestamp="1507238780209">
         <mark key="[" line="2" column="0" />
@@ -62,11 +61,10 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/MyGdxGame.java" timestamp="1510080877834">
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="252" column="41" />
-        <mark key="." line="252" column="0" />
-        <mark key="^" line="250" column="4" />
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/MyGdxGame.java" timestamp="1510082013821">
+        <mark key="[" line="305" column="8" />
+        <mark key="]" line="304" column="54" />
+        <mark key="." line="304" column="0" />
       </file>
       <file name="C:/Dev/java/sw/core/src/com/sw/game/GameControl.java" timestamp="1507239208976">
         <mark key="[" line="10" column="13" />
@@ -136,7 +134,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJY29sbGlzaW9uID0gY2hlY2tDb2xsaXNpb24oKTsK</text>
+        <text encoding="base64">CQlEZWJ1Zy5wcmludGxuKCJjaGVja0NvbGxpc2lvbigpIix0b1N0cmluZyhyKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -145,31 +143,31 @@
         <text encoding="base64">CQkJY29sbGlzaW9uID0gY2hlY2tDb2xsaXNpb24oKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQljb2xsaXNpb24gPSBjaGVja0NvbGxpc2lvbigpOwo=</text>
+        <text encoding="base64">CQlEZWJ1Zy5wcmludGxuKCJjaGVja0NvbGxpc2lvbigpIix0b1N0cmluZyhyKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwYXRjaGVyLmRpc3Bvc2UoKTsKICAgICAgICBjb2xsaXNpb25Db25maWcuZGlzcG9zZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJY29sbGlzaW9uID0gY2hlY2tDb2xsaXNpb24oKTsK</text>
+        <text encoding="base64">CiAgICAgICAgY29sbGlzaW9uQ29uZmlnID0gbmV3IGJ0RGVmYXVsdENvbGxpc2lvbkNvbmZpZ3VyYXRpb24oKTsKICAgICAgICBkaXNwYXRjaGVyID0gbmV3IGJ0Q29sbGlzaW9uRGlzcGF0Y2hlcihjb2xsaXNpb25Db25maWcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJRGVidWcucHJpbnRsbih0cmFuc2Zvcm1pbmcpOwo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkvL0RlYnVnLnByaW50bG4oIlJFTkRFUiIsIjIiKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgYnRDb2xsaXNpb25Db25maWd1cmF0aW9uIGNvbGxpc2lvbkNvbmZpZzsKICAgIHB1YmxpYyBidERpc3BhdGNoZXIgZGlzcGF0Y2hlcjs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvL0RlYnVnLnByaW50bG4oIlJFTkRFUiIsIjMiKTsK</text>
+        <text encoding="base64">CQljb2xsaXNpb24gPSBjaGVja0NvbGxpc2lvbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvL0RlYnVnLnByaW50bG4oIlJFTkRFUiIsIjQiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvL0RlYnVnLnByaW50bG4oIlJFTkRFUiIsIjQiKTsK</text>
+        <text encoding="base64">CQkJY29sbGlzaW9uID0gY2hlY2tDb2xsaXNpb24oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvL0RlYnVnLnByaW50bG4oIlJFTkRFUiIsIjMiKTsK</text>
+        <text encoding="base64">CQkJRGVidWcucHJpbnRsbih0cmFuc2Zvcm1pbmcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
