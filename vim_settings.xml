@@ -3,6 +3,50 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1508862031815">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/OrganizerZawodow.java" timestamp="1508352202825">
+        <mark key="[" line="25" column="10" />
+        <mark key="]" line="25" column="10" />
+        <mark key="." line="25" column="10" />
+        <mark key="^" line="23" column="46" />
+      </file>
+      <file name="C:/Dev/java/drop/desktop/src/com/my/drop/desktop/DesktopLauncher.java" timestamp="1506768331702">
+        <mark key="[" line="8" column="82" />
+      </file>
+      <file name="C:/Dev/java/drop2/core/src/com/drop2/game/GameScreen.java" timestamp="1507239377024">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="16" column="39" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+      </file>
+      <file name="C:/Dev/java/sw/core/src/com/sw/game/GameControl.java" timestamp="1507239208976">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="C:/Dev/java/sw/core/src/com/sw/game/BezierCurve.java" timestamp="1507372381318">
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="24" column="8" />
+      </file>
+      <file name="C:/Dev/java/sw/desktop/src/com/sw/game/desktop/DesktopLauncher.java" timestamp="1507239911208">
+        <mark key="'" line="10" column="33" />
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+      </file>
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaZawodowDroz15.java" timestamp="1508350287239">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/EscMenu.java" timestamp="1510251500482">
+        <mark key="[" line="15" column="4" />
+      </file>
       <file name="/Dummy.txt" timestamp="1510124005024">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -32,9 +76,6 @@
         <mark key="." line="10" column="38" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1508862031815">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="C:/Dev/java/sw/core/src/com/sw/game/SpeedwayBike.java" timestamp="1507062012653">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -46,27 +87,6 @@
         <mark key="^" line="61" column="38" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/OrganizerZawodow.java" timestamp="1508352202825">
-        <mark key="[" line="25" column="10" />
-        <mark key="]" line="25" column="10" />
-        <mark key="." line="25" column="10" />
-        <mark key="^" line="23" column="46" />
-      </file>
-      <file name="C:/Dev/java/drop/desktop/src/com/my/drop/desktop/DesktopLauncher.java" timestamp="1506768331702">
-        <mark key="[" line="8" column="82" />
-      </file>
-      <file name="C:/Dev/java/drop2/core/src/com/drop2/game/GameScreen.java" timestamp="1507239377024">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="16" column="39" />
-        <mark key="." line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-      </file>
-      <file name="C:/Dev/java/sw/core/src/com/sw/game/GameControl.java" timestamp="1507239208976">
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="9" column="0" />
-      </file>
       <file name="C:/Dev/java/sw/core/src/com/sw/game/MainMenuScreen.java" timestamp="1507241929484">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="40" column="8" />
@@ -76,27 +96,10 @@
       <file name="C:/Dev/java/sw3d/desktop/src/com/sw3d/game/desktop/DesktopLauncher.java" timestamp="1507392423751">
         <mark key="[" line="8" column="82" />
       </file>
-      <file name="C:/Dev/java/sw/core/src/com/sw/game/BezierCurve.java" timestamp="1507372381318">
-        <mark key="[" line="30" column="36" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="24" column="8" />
-      </file>
       <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/Tor.java" timestamp="1510083241409">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
-      </file>
-      <file name="C:/Dev/java/sw/desktop/src/com/sw/game/desktop/DesktopLauncher.java" timestamp="1507239911208">
-        <mark key="'" line="10" column="33" />
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="10" column="33" />
-      </file>
-      <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaZawodowDroz15.java" timestamp="1508350287239">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/Dev/java/sw3d/core/src/com/sw3d/game/TabelaBieg.java" timestamp="1508350659798">
         <mark key="[" line="38" column="8" />
